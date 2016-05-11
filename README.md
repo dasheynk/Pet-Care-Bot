@@ -1,2 +1,2 @@
-# Pet-Care-Bot
-Majority of pets are left home alone and get bored. They can even cause trouble. The robot will act like a care-taker.
+# Pet Care Bot
+Majority of pets are left home alone and have no one to interact with. They can become  bored, depressed, or even disruptive. This robot will act like a care-taker for the pet so that the animal will finally have a companion while you are away. As of right now, the robot is able to 'see' the pet through the raspberry pi camera and from there follow the pet around the house. Pet owners can even use their phone to connect to the camera and see what the pet is doing. New features will be added in the future such as pet feeder and a speaker for voice interaction. 
