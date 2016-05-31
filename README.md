@@ -10,3 +10,7 @@ Majority of pets are left home alone and have no one to interact with. They can 
  sudo apt-get update
  sudo apt-get upgrade
  ```
+### Installing OpenCV
+Now we need to install OpenCV. Open up the terminal and type the following command:
+`sudo apt-get install python-opencv`
+
